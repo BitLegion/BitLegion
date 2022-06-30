@@ -16,3 +16,4 @@ const Pratyay = {
   setup: [MacOS, Doom Emacs + Vim, zsh]
 }
 ```
+Note: My GitHub is currently very bare because many of A) most of my code being for organizations that prefer to keep repositories private and B) my chronic inability to write clean code after 2 AM, and my subsequent laziness in cleaning up my code and making it public; I'll try to work on B 🙂
