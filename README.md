@@ -1,5 +1,5 @@
 <h2>🖖, I'm Pratyay Pandey</h2>
-<h4>Student at Mission San Jose High, Programmer, Researcher, Star Wars Fanatic</h4>
+<h4>Student at Mission San Jose High, Programmer, Researcher, Star Wars Fanatic <img src="https://media.tenor.com/pOAVgKl97qQAAAAi/emoji-shaking.gif" width="25"></h4>
 
 ```javascript
 const Pratyay = {
@@ -13,8 +13,10 @@ const Pratyay = {
       Director_of_Software: Valkyrie Robotics, 
       Vice_President: [MSJ CS Club, MSJ AI Club, Technology Students Association],
   },
-  research: [Abstract Proof Systems, Ordinal Analysis]
+  research: [Abstract Proof Systems, Ordinal Analysis],
   setup: [MacOS, Doom Emacs + Vim, zsh]
 }
 ```
-Note: My GitHub is currently very bare because many of A) most of my code being for organizations that prefer to keep repositories private and B) my chronic inability to write clean code after 2 AM, and my subsequent laziness in cleaning up my code and making it public; I'll try to work on B 🙂
+Note: My GitHub is currently very bare because many of A) most of my code being for organizations that prefer to keep repositories private and B) my chronic inability to write clean code after 2 AM, and my subsequent laziness in cleaning up my code and making it public; I'll try to work on B 
+
+<img src="https://media.tenor.com/dfTodbgp4dUAAAAi/blobfish-deal-with-it.gif">
