@@ -1,8 +1,7 @@
 <h2>🖖, I'm Pratyay Pandey</h2>
 
-Here's what I'm up to these days: 
-- Building Numenor Labs
-- Creating a really cool drone :) 
-- Expanding the Bay Area Programming Initiative with my CS Club
+Here's what I'm up to these days:
+- Studying EECS @ UC Berkeley 
+- Building cool robots @ Hadron Technologies 
 
 Have a fun idea in mind? Feel free to reach out!
