@@ -3,7 +3,7 @@ Sorry if there's not much to see; a lot of my code is private!
 
 But here's what I'm up to these days:
 - Studying EECS and Math/Stats @ UC Berkeley
-- Working on and researching LOTUS with the Stanford Future Data Systems Group and Berkeley Sky Computing Lab
+- Working on and researching LOTUS under Prof. Matei Zahari and Carlos Guestrin at the Stanford AI Lab and Berkeley Sky Computing Lab
 - Making fine-tuning multimodal models as easy as Scratch @ Eregion
 - Building voice-activated agentic workflows @ Uncountable Inc. 
 
